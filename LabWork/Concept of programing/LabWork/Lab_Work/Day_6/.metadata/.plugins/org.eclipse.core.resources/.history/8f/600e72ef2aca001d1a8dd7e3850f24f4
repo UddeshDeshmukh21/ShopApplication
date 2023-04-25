@@ -1,0 +1,16 @@
+package com.emp;
+
+public class SalePerson {
+
+	
+	private double PA,TA,FA;
+
+	public SalePerson(double pA, double tA, double fA) {
+		super();
+		PA = pA;
+		TA = tA;
+		FA = fA;
+	}
+	
+	
+}

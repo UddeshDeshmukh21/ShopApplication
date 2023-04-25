@@ -1,0 +1,10 @@
+package Tester.code;
+
+public class TesterEmp {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

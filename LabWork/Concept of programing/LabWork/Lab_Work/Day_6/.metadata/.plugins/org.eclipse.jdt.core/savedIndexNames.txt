@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+G:\Pratik_uddesh-Dac\LabWork\Concept of programing\LabWork\Lab_Work\Day_6\.metadata\.plugins\org.eclipse.jdt.core
+218960630.index
+1865797976.index
+2337261459.index

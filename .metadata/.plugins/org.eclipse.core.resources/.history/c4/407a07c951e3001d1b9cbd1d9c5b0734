@@ -1,0 +1,41 @@
+package tester.app;
+
+import java.util.Scanner;
+
+import com.App.Category;
+
+public class ShopApp {
+
+	public static void main(String[] args) {
+		Scanner sc=new Scanner(System.in);
+		
+		double price;
+		int qty;
+		double total_amount;
+		
+		System.out.println("----------Online Shop Apllication-----------");
+		System.out.println("\n");
+		
+		System.out.println("Available Category");
+		
+		Category[] ct = Category.values();
+		
+		for(int i=0;i<ct.length;i++)
+		{
+			System.out.println(ct[i]);
+		}
+		
+	 System.out.println("\n");
+		
+		System.out.println("Choice Category ");
+		 Category m=Category.valueOf(sc.next().toUpperCase());
+		
+		
+		
+		
+	
+		
+
+	}
+
+}

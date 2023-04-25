@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="NewFolder.PackAcces"/>
+    <fullyQualifiedTypeName name="com.code.StdMark"/>
+    <fullyQualifiedTypeName name="java.lang.Package"/>
+    <fullyQualifiedTypeName name="code.Package.Package"/>
+    <fullyQualifiedTypeName name="TesterPackage.TesterPackage"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="code.abstraction.Circle"/>
+    <fullyQualifiedTypeName name="code.abstraction.Square"/>
+    <fullyQualifiedTypeName name="code.abstraction.Rectangle"/>
+    <fullyQualifiedTypeName name="code.abstraction.ShapeFactory"/>
+    <fullyQualifiedTypeName name="com.Interface.Employee"/>
+    <fullyQualifiedTypeName name="com.Interface.Shape"/>
+    <fullyQualifiedTypeName name="javax.xml.crypto.Data"/>
+    <fullyQualifiedTypeName name="com.Interface.Date"/>
+    <fullyQualifiedTypeName name="com.Interface.Iprintable"/>
+</qualifiedTypeNameHistroy>

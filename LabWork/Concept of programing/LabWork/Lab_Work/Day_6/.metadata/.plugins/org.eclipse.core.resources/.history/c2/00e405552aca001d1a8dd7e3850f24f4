@@ -1,0 +1,9 @@
+package com.emp;
+
+public class SalePerson {
+
+	
+	private int double PA;
+	
+	
+}

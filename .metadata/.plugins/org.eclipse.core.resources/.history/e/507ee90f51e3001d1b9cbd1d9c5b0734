@@ -1,0 +1,27 @@
+package tester.app;
+
+import java.util.Scanner;
+
+public class ShopApp {
+
+	public static void main(String[] args) {
+		Scanner sc=new Scanner(System.in);
+		
+		double price;
+		int qty;
+		double total_amount;
+		
+		System.out.println("----------Online Shop Apllication-----------");
+		System.out.println("\n");
+		
+		System.out.println("Available Category");
+		
+		
+		
+		
+	
+		
+
+	}
+
+}

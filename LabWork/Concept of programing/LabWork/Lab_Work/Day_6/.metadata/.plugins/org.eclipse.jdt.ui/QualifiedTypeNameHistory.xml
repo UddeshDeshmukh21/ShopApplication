@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.code.Constructor"/>
+    <fullyQualifiedTypeName name="com.emp.Emp"/>
+    <fullyQualifiedTypeName name="com.emp.Date"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="com.emp.Manager"/>
+</qualifiedTypeNameHistroy>

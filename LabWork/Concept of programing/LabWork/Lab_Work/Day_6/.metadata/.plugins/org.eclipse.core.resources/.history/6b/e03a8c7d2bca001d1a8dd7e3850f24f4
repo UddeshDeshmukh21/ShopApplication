@@ -1,0 +1,25 @@
+package com.emp;
+
+import java.util.Scanner;
+
+public class Developer {
+
+	private String project;
+	private String domain;
+	
+	Scanner sc = new  Scanner(System.in);
+	public Developer(String project, String domain) {
+		super();
+		this.project = project;
+		this.domain = domain;
+	}
+	
+	public String toString() {
+		return "Developer"+project+"\n"+domain;
+	}
+	
+	date obj1=new Date(sc., 0, 0)
+	
+	
+	
+}

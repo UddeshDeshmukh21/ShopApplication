@@ -1,0 +1,12 @@
+package com.emp;
+
+public class Developer {
+
+	private String project;
+	private String Domain;
+	
+	
+	
+	
+	
+}

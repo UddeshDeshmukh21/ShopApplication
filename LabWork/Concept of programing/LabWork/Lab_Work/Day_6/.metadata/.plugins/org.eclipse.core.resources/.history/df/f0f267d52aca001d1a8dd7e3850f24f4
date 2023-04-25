@@ -1,0 +1,22 @@
+package com.emp;
+
+public class Developer {
+
+	private String project;
+	private String domain;
+	
+	
+	public Developer(String project, String domain) {
+		super();
+		this.project = project;
+		this.domain = domain;
+	}
+	
+	public String toString() {
+		return "Developer"+project+"\n"+projectr;
+	}
+	
+	
+	
+	
+}

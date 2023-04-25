@@ -1,0 +1,19 @@
+package com.emp;
+
+public class Manager {
+
+	private String Dept;
+	private int teamMember;
+	private String Domain;
+	
+	public Manager(String dept, int teamMember, String domain) {
+		
+		this.Dept = dept;
+		this.teamMember = teamMember;
+		Domain = domain;
+	}
+	
+	public String 
+	
+	
+}

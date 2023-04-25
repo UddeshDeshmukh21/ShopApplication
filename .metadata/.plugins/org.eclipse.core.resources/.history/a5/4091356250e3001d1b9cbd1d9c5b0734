@@ -1,0 +1,6 @@
+package com.App;
+
+public enum Vegetables {
+
+	apple,orange,banana,lemon,
+}

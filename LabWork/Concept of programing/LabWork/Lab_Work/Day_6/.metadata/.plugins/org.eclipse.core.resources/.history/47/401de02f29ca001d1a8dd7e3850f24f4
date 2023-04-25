@@ -1,0 +1,10 @@
+package com.emp;
+
+public class Emp {
+
+	private int empId;
+	private double salary;
+	private String name;
+	
+	
+}

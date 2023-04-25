@@ -1,0 +1,9 @@
+package com.emp;
+
+public class Manager {
+
+	private String Dept;
+	private int teamMember;
+	private String Dept;
+	
+}
